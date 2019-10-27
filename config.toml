@@ -1,0 +1,16 @@
+baseURL = "https://calumboal.com/"
+languageCode = "en-us"
+title = "Calum Boal"
+theme = "m10c"
+pygmentsstyle = "paraiso-dark"
+PygmentsCodeFences = true
+[params]
+description =  "Pwning networks for OnSecurity. | OSCP | CRT |"
+avatar = "/img/avatar.png"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/cgboal"
+
+[[params.social]] 
+  name = "twitter"
+  url = "https://twitter.com/@CalumBoal"
